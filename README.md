@@ -3,7 +3,11 @@
  Hello, my name is Julia, I'm 23 years old, and I'm currently studying Analysis and System Development. I've been focusing on studying and dedicating myself to back-end languages, but I also intend to learn more about web development.
 </p>
 
-![Julia GitHub stats](https://github-readme-stats.vercel.app/api?username=ttpmorp&show_icons=true&theme=radical)
+ <div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ttpmorp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttpmorp&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
 ## Skills
 <div style="display: inline_block"><br/>
