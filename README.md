@@ -33,11 +33,3 @@ I've been focusing on studying and dedicating myself to back-end languages, but 
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4a4&height=120&section=footer"/>
-   <a href="https://discord.gg/Gx6XGyRYU" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-    <a href = "mailto:cristinny99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-   <a href="https://www.hackerrank.com/cristinny99" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-  <a href="https://www.instagram.com/itsxulia_/" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 30px"target="_blank" </a>
-   <a href="https://www.linkedin.com/in/julia-santos-644691175/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4a4&height=120&section=footer"/>
