@@ -6,10 +6,26 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?color=%23FF69B4&duration=3000&pause=1000&width=600&lines=Back-end+nunca+duerme...;C%23+%C2%B7+Python+%C2%B7+Seguran%C3%A7a;OSINT+%E2%80%A2+Redes+%E2%80%A2+Automa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ttpmorp&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&title_color=FF69B4&icon_color=FFD700&cache_seconds=1" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttpmorp&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&title_color=FF69B4&cache_seconds=1" height="165"/>
 </div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ttpmorp&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&title_color=FF69B4&icon_color=FFD700&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ttpmorp&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&title_color=FF69B4" width="48%" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=ttpmorp&theme=radical&background=0D1117&border=0D1117&ring=FF69B4&fire=FFD700&currStreakLabel=FF69B4" width="90%" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ttpmorp&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" width="95%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ttpmorp&bg_color=0D1117&color=FF69B4&line=FFD700&point=FFFFFF&hide_border=true&area=true" width="95%" />
 
 </div>
 
@@ -97,18 +113,6 @@ DevOps         Proxmox · Docker · Git
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ttpmorp&theme=radical&background=0D1117&border=0&ring=FF69B4&fire=FFD700&cache_seconds=1"/>
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=ttpmorp&theme=radical&no-frame=true&no-bg=true&column=7&cache_seconds=1"/>
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ttpmorp&bg_color=0D1117&color=FF69B4&line=FFD700&point=ffffff&hide_border=true&cache_seconds=1"/>
 </div>
 
 ---
