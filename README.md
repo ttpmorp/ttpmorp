@@ -1,28 +1,134 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4a4&height=120&section=header"/>
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Júlia+Santos;I'm+25+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!;I+Love+Renatha+:%29)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:FFD700,100:00FFFF&height=220&section=header&text=juLia%20ttpmorp&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=System%20Analyst%20%7C%20Developer%20%7C%20OSINT%20Enthusiast&descAlignY=50&descAlign=62&animation=twinkling" width="100%"/>
 
-<p align="center"> 
-I've been focusing on studying and dedicating myself to back-end languages, but I also intend to learn more about web development.
-</p>
+### 🎯 *Focusing* — construindo, quebrando (éticamente) e automatizando.
 
- <div align="center">  
-  <img width="60%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ttpmorp&show_icons=true&count_private=true&hide_border=true&title_color=6fbdc3a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="30%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttpmorp&layout=compact&hide_border=true&title_color=6fbdc3a4&text_color=ff914&bg_color=0d1117" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?color=%23FF69B4&duration=3000&pause=1000&width=600&lines=Back-end+nunca+duerme...;C%23+%C2%B7+Python+%C2%B7+Seguran%C3%A7a;OSINT+%E2%80%A2+Redes+%E2%80%A2+Automa%C3%A7%C3%A3o)](https://git.io/typing-svg)
+
+<img src="https://github-readme-stats.vercel.app/api?username=ttpmorp&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&title_color=FF69B4&icon_color=FFD700" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttpmorp&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&title_color=FF69B4" height="165"/>
+
 </div>
 
-  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ttpmorp&bg_color=0d1117&color=6fbdc3&line=ce468a&point=79b4c8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
+## 🔎 Quem sou eu
 
+Analista de Sistemas por escolha, desenvolvedora por natureza. Vivo no cruzamento entre **back-end**, **segurança da informação** e **OSINT** — se existe um dado público escondido, eu encontro; se existe um processo manual, eu automatizo.
 
+> *"Focusing"* 🎯 — em estudar back-end de verdade, aprofundar em segurança e expandir para web development.
 
-<div align="center"> 
-   <a href="https://discord.gg/Gx6XGyRYU" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-    <a href = "mailto:cristinny99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-   <a href="https://www.hackerrank.com/cristinny99" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-  <a href="https://www.instagram.com/itsxulia_/" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 30px"target="_blank" </a>
-   <a href="https://www.linkedin.com/in/julia-santos-644691175/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+---
+
+## 🚀 Projetos em destaque
+
+<table>
+<tr>
+<td width="50%">
+
+### 💼 [Nexxus](https://github.com/ttpmorp/Nexxus)
+Sistema web de emissão de **NFS-e** no padrão nacional (Sistema Nacional NFS-e / SPED).
+`C#` `Web` `Fiscal`
+
+</td>
+<td width="50%">
+
+### 📡 [TTpmorp_monitoramento](https://github.com/ttpmorp/TTpmorp_monitoramento)
+Monitoramento de rede corporativa com alertas via **Telegram**, **MikroTik**, **SNMP** e assistente de IA.
+`Python` `Redes` `IA`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🕵️ [TTpmorp_osint](https://github.com/ttpmorp/TTpmorp_osint)
+Framework modular de **OSINT** para o Brasil — extração e processamento automatizado de dados públicos.
+`Python` `OSINT`
+
+</td>
+<td width="50%">
+
+### 🤖 [TTpmorp_chatbot](https://github.com/ttpmorp/TTpmorp_chatbot)
+Chatbot de WhatsApp com **Google Gemini** que simula minha personalidade.
+`Python` `Gemini` `WhatsApp`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔐 [TTpmorp_pass](https://github.com/ttpmorp/TTpmorp_pass)
+Gerenciador de senhas corporativo com extensão **Chrome**.
+`Python` `Segurança`
+
+</td>
+<td width="50%">
+
+### 📇 [API_CNPJ_BD](https://github.com/ttpmorp/API_CNPJ_BD)
+Consulta de empresas por CNPJ via **BrasilAPI**, com processamento e armazenamento.
+`C#` `API`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Stack & Ferramentas
+
+```text
+ linguagens     C# · Python · TypeScript · Java · Shell · SQL
+ back-end       .NET · APIs REST · bancos de dados
+ segurança      OSINT · Wireshark · MikroTik · SNMP · GNU/Linux
+ automação      Telegram Bots · Gemini API · scripts
+ devops         Proxmox · Docker · Git
+```
+
+<div align="center">
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4a4&height=120&section=footer"/>
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ttpmorp&theme=radical&background=0D1117&border=0&ring=FF69B4&fire=FFD700"/>
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=ttpmorp&theme=radical&no-frame=true&no-bg=true&column=7"/>
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ttpmorp&bg_color=0D1117&color=FF69B4&line=FFD700&point=ffffff&hide_border=true"/>
+</div>
+
+---
+
+## 🌐 Onde me encontrar
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-santos-644691175/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsxulia_/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/cristinny99)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Gx6XGyRYU)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristinny99@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Talk is cheap. Show me the code."* — Linus Torvalds
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:FFD700,100:00FFFF&height=120&section=footer&animation=twinkling" width="100%"/>
+
+</div>
