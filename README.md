@@ -2,12 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:FFD700,100:00FFFF&height=220&section=header&text=juLia%20ttpmorp&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=System%20Analyst%20%7C%20Developer%20%7C%20OSINT%20Enthusiast&descAlignY=50&descAlign=62&animation=twinkling" width="100%"/>
 
-### 🎯 *Focusing* — construindo, quebrando (éticamente) e automatizando.
+### 🎯 *Focusing* — construindo, quebrando (eticamente) e automatizando.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?color=%23FF69B4&duration=3000&pause=1000&width=600&lines=Back-end+nunca+duerme...;C%23+%C2%B7+Python+%C2%B7+Seguran%C3%A7a;OSINT+%E2%80%A2+Redes+%E2%80%A2+Automa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
-<img src="https://github-readme-stats.vercel.app/api?username=ttpmorp&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&title_color=FF69B4&icon_color=FFD700" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttpmorp&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&title_color=FF69B4" height="165"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ttpmorp&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&title_color=FF69B4&icon_color=FFD700&cache_seconds=1" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttpmorp&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&title_color=FF69B4&cache_seconds=1" height="165"/>
+</div>
 
 </div>
 
@@ -79,11 +81,11 @@ Consulta de empresas por CNPJ via **BrasilAPI**, com processamento e armazenamen
 ## 🛠️ Stack & Ferramentas
 
 ```text
- linguagens     C# · Python · TypeScript · Java · Shell · SQL
- back-end       .NET · APIs REST · bancos de dados
- segurança      OSINT · Wireshark · MikroTik · SNMP · GNU/Linux
- automação      Telegram Bots · Gemini API · scripts
- devops         Proxmox · Docker · Git
+Linguagens     C# · Python · TypeScript · Java · Shell · SQL
+Back-end       .NET · APIs REST · Bancos de Dados
+Segurança      OSINT · Wireshark · MikroTik · SNMP · GNU/Linux
+Automação      Telegram Bots · Gemini API · Scripts
+DevOps         Proxmox · Docker · Git
 ```
 
 <div align="center">
@@ -102,11 +104,11 @@ Consulta de empresas por CNPJ via **BrasilAPI**, com processamento e armazenamen
 ## 📈 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ttpmorp&theme=radical&background=0D1117&border=0&ring=FF69B4&fire=FFD700"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ttpmorp&theme=radical&background=0D1117&border=0&ring=FF69B4&fire=FFD700&cache_seconds=1"/>
 <br/>
-<img src="https://github-profile-trophy.vercel.app/?username=ttpmorp&theme=radical&no-frame=true&no-bg=true&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ttpmorp&theme=radical&no-frame=true&no-bg=true&column=7&cache_seconds=1"/>
 <br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ttpmorp&bg_color=0D1117&color=FF69B4&line=FFD700&point=ffffff&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ttpmorp&bg_color=0D1117&color=FF69B4&line=FFD700&point=ffffff&hide_border=true&cache_seconds=1"/>
 </div>
 
 ---
