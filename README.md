@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:FFD700,100:00FFFF&height=220&section=header&text=Julia%20Santos&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=System%20Analyst%20%7C%20Developer%20%7C%20OSINT%20Enthusiast&descAlignY=50&descAlign=62&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:FFD700,100:00FFFF&height=220&section=header&text=Julia%20Santos&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Analista%20de%20TI%20%7C%20Desenvolvedora%20%7C%20Infra%20%7C%20Monitoramento%20%7C%20Virtualização&descAlignY=50&descAlign=62&animation=twinkling" width="100%"/>
 
 ### FOCUSING - construindo, quebrando (eticamente) e automatizando.
 
