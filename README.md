@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:FFD700,100:00FFFF&height=220&section=header&text=Julia%20Santos&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Analista%20de%20TI%20%7C%20Desenvolvedora%20%7C%20Infra%20%7C%20Monitoramento%20%7C%20Virtualização&descAlignY=50&descAlign=62&animation=twinkling" width="100%"/>
 
-### FOCUSING - construindo, quebrando (eticamente) e automatizando.
+<!--### FOCUSING - construindo, quebrando (eticamente) e automatizando.-->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?color=%23FF69B4&duration=3000&pause=1000&width=600&lines=Back-end+nunca+duerme...;C%23+%C2%B7+Python+%C2%B7+Seguran%C3%A7a;OSINT+%E2%80%A2+Redes+%E2%80%A2+Automa%C3%A7%C3%A3o)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com?color=%23FF69B4&duration=3000&pause=1000&width=600&lines=Back-end+nunca+duerme...;C%23+%C2%B7+Python+%C2%B7+Seguran%C3%A7a;OSINT+%E2%80%A2+Redes+%E2%80%A2+Automa%C3%A7%C3%A3o)](https://git.io/typing-svg)-->
 
 </div>
 
